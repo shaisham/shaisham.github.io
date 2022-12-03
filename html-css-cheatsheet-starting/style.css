@@ -1,0 +1,20 @@
+header,
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+}
+
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: aquamarine;
+    margin: 0 500px;
+}
+
+th {
+    color: blueviolet;
+}
